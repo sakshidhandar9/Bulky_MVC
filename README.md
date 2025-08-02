@@ -1,6 +1,6 @@
 # 🛒 My eCommerce Website
 
-A fully functional eCommerce web application built with [insert technologies here, e.g., React, Node.js, MongoDB]. This project includes user authentication, product browsing, cart functionality, payment integration, and admin controls for managing inventory.
+A fully functional eCommerce web application built with [insert technologies here, e.g .Net Core MVC, Entity Framework, MSSQL, HTML, CSS, Javascript]. This project includes user authentication, product browsing, cart functionality, payment integration, and admin controls for managing inventory.
 
 ## 🚀 Features
 
@@ -14,9 +14,9 @@ A fully functional eCommerce web application built with [insert technologies her
 
 ## 🧰 Technologies Used
 
-- Frontend: [React, Tailwind CSS, Redux]
-- Backend: [Node.js, Express.js]
-- Database: [MongoDB]
+- Frontend: [HTML, CSS, Javascript]
+- Backend: [Dot Net Core MVC, Entity Franework]
+- Database: [MSSQL]
 - Payment Gateway: [Stripe]
 - Authentication: [JWT / OAuth]
 
@@ -24,7 +24,7 @@ A fully functional eCommerce web application built with [insert technologies her
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ecommerce-site.git
+[git clone https://github.com/your-username/ecommerce-site.git](https://github.com/sakshidhandar9/Bulky_MVC.git)
 
 # Navigate into the project directory
 cd ecommerce-site
